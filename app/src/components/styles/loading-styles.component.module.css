@@ -1,0 +1,16 @@
+.containerLoading {
+	display: flex;
+	flex-direction: column;
+	height: 200px;
+	align-items: center;
+	justify-content: center;
+}
+.textLoading {
+	color: #e3e4e5;
+	margin: 0px;
+}
+.imgGift {
+	width: 100px;
+	display: block;
+	margin: 0px;
+}
